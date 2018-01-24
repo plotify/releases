@@ -1,0 +1,30 @@
+{
+  "stable": {
+    "linux": {
+      "version": "0.1.0",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.1.0"
+    },
+    "macos": {
+      "version": "0.1.0",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.1.0"
+    },
+    "windows": {
+      "version": "0.1.0",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.1.0"
+    }
+  },
+  "pre-release": {
+    "linux": {
+      "version": "0.2.0-alpha.2",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.2"
+    },
+    "macos": {
+      "version": "0.2.0-alpha.2",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.2"
+    },
+    "windows": {
+      "version": "0.2.0-alpha.2",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.2"
+    }
+  }
+}
