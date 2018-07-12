@@ -15,16 +15,16 @@
   },
   "pre-release": {
     "linux": {
-      "version": "0.2.0-alpha.6",
-      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.6"
+      "version": "0.2.0-alpha.7",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.7"
     },
     "macos": {
-      "version": "0.2.0-alpha.6",
-      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.6"
+      "version": "0.2.0-alpha.7",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.7"
     },
     "windows": {
-      "version": "0.2.0-alpha.6",
-      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.6"
+      "version": "0.2.0-alpha.7",
+      "url": "https://github.com/plotify/plotify/releases/tag/v0.2.0-alpha.7"
     }
   }
 }
